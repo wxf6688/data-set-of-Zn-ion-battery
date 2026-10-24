@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the article and this repository."
+title: "Cycle-life dataset and analysis code for aqueous Zn/MnO2 coin cells"
+abstract: "Per-cycle cycling data of 33 Zn/MnO2 CR2032 coin cells cycled at 25 ± 2 °C between 0.8 and 1.8 V, with the code that builds the labels, the features, the leave-one-cell-out evaluation and the conformal intervals."
+authors:
+  - family-names: Wang
+    given-names: Xuefeng
+  - family-names: Moses
+    given-names: Atwakyire
+  - family-names: Huang
+    given-names: Qiao
+  - family-names: Wang
+    given-names: Bin
+  - family-names: Liu
+    given-names: Liya
+  - family-names: Li
+    given-names: Juanyun
+  - family-names: Huang
+    given-names: Yanming
+  - family-names: Chen
+    given-names: Ding
+    email: chending@hnu.edu.cn
+year: 2026
+version: "1.0.0"
+repository-code: "https://github.com/wxf6688/data-set-of-Zn-ion-battery"
+keywords:
+  - zinc-ion battery
+  - cycle life prediction
+  - battery dataset
+  - conformal prediction

@@ -1,0 +1,8 @@
+Quantity,Value
+Cells analysed,33 (one fabrication campaign)
+Peak discharge capacity,0.433 ± 0.031 mAh (0.367-0.503)
+Capacity retention at cycle 400,54.1 ± 11.2%
+End of life (n = 32),182 ± 63 cycles (median 176; range 109-386)
+Right-censored cells,1 (cell 19)
+Temperature,25 ± 2 °C
+Prediction origin,cycle 90 (all labelled cells still alive)

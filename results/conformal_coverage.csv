@@ -1,0 +1,4 @@
+nominal,coverage_pct,n_covered,mean_width_cycles
+80%,81.2,26,76.0
+90%,90.6,29,137.0
+95%,93.8,30,287.0
